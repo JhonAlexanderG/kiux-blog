@@ -1,2 +1,2 @@
-# kiux-blog
+# blog
 blog desarrollado con react y firebase
