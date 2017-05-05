@@ -1,2 +1,2 @@
 # blog
-blog desarrollado con react y firebase
+Ejercicio desarrollado con react js y firebase
